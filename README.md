@@ -3,9 +3,10 @@ Let's build the Raspberry Pi Factory in Minecraft
 
 ```[tasklist]
 ### Tasks
-- [] Set up minecraft Server on Raspberry Pi 4
-- [] Import the Landscape aorund the Factory from Google Maps
-- [] Add the Factory Shape
-- [] Install Worldedit
-- [] Build up the Building from outside
+- [ ] Get task list working
+- [ ] Set up minecraft Server on Raspberry Pi 4
+- [ ] Import the Landscape aorund the Factory from Google Maps
+- [ ] Add the Factory Shape
+- [ ] Install Worldedit
+- [ ] Build up the Building from outside
 ```
